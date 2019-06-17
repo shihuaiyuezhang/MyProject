@@ -113,7 +113,7 @@ public class TraverseTree {
     }
 
 
-    public void postorderTraversal(TreeNode root){
+    public void postOrderTraversal(TreeNode root){
         TreeNode node = root;
         LinkedList<TreeNode> stack1 = new LinkedList<>();
         LinkedList<TreeNode> stack2 = new LinkedList<>();

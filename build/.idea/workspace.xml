@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="38ee20be-ef39-409a-aa60-55648ba573c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/word/AlgorithmQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/word/HashMapTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/word/WordToPDFService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../tools/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,11 +70,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/word/WordExportService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-317">
               <caret line="34" column="114" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,11 +147,11 @@
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/scan/ScanPackage.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/sort/SortAlgorithm.java" />
-        <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/loader/DiskClassLoader.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/word/HashMapTest.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java" />
       </list>
     </option>
   </component>
@@ -219,6 +238,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="word" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -230,7 +258,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560753537375" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560753786920" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -285,7 +313,7 @@
       <workItem from="1558004916941" duration="3865000" />
       <workItem from="1558057392178" duration="591000" />
       <workItem from="1560750425217" duration="1764000" />
-      <workItem from="1560752877221" duration="660000" />
+      <workItem from="1560752877221" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="增加忽略文件">
       <created>1560753108665</created>
@@ -294,11 +322,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560753108665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除不用的代码">
+      <created>1560753589462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560753589462</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55564000" />
+    <option name="totallyTimeSpent" value="55814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="1" width="1822" height="1047" extended-state="0" />
@@ -344,7 +379,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加忽略文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加忽略文件" />
+    <MESSAGE value="删除不用的代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除不用的代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -414,16 +450,6 @@
     <entry file="jar://D:/Java/jre/lib/rt.jar!/java/util/HashMap.class" />
     <entry file="jar://D:/Java/jre/lib/rt.jar!/java/util/Queue.class" />
     <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/Tree.java" />
-    <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/util/IOUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -463,13 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3427">
-          <caret line="149" column="34" lean-forward="true" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -605,6 +624,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-317">
           <caret line="34" column="114" selection-start-line="34" selection-start-column="103" selection-end-line="34" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
         </state>
       </provider>
     </entry>
