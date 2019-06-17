@@ -1,4 +1,4 @@
-package com.wiserv.util.tree;
+package com.wiserv.util.tree.entity;
 
 
 import lombok.Getter;
@@ -8,13 +8,10 @@ import lombok.Setter;
 @Setter
 public class TreeNode {
 
-    private String key;
-
     private Integer value;
 
     private TreeNode left;
 
     private TreeNode right;
-
 
 }
