@@ -1,33 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="38ee20be-ef39-409a-aa60-55648ba573c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java" afterDir="false" />
+=======
+    <list default="true" id="5f8725cd-afa0-47ad-870b-e7a72646b754" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
-    <ignored path="$PROJECT_DIR$/../tools/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/../swagger/target/" />
+    <ignored path="$PROJECT_DIR$/../tools/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
+  <component name="FUSProjectUsageTrigger">
+    <session id="238143526">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< Updated upstream
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/excel/ExcelExportUtil.java">
@@ -113,42 +137,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>threshold</find>
-      <find>roundUpToPowerOf2</find>
-      <find>inflateTable</find>
-      <find>loadFactor</find>
-      <find>resize</find>
-      <find>put(</find>
-      <find>HashMap</find>
-      <find>hash</find>
-      <find>hash(</find>
-      <find>pe</find>
-      <find>//</find>
-      <find>pNode</find>
-      <find>crmService</find>
-      <find>grow(</find>
-      <find>ensureExplicitCapacity(</find>
-      <find>first</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>/**</replace>
-      <replace>node</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -156,6 +157,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/../tools/src/test/java/com/wisev/util/Test.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/ReadExcelTools.java" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/word/ConsignorVo.java" />
@@ -169,20 +171,28 @@
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TraverseTree.java" />
         <option value="$PROJECT_DIR$/../tools/pom.xml" />
         <option value="$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/tree/TreeNode.java" />
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
+>>>>>>> Stashed changes
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="alwaysUpdateSnapshots" value="true" />
-        <option name="mavenHome" value="D:/Maven" />
-        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+<<<<<<< Updated upstream
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -198,14 +208,24 @@
           <item name="tools" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
+=======
+      <expand />
+>>>>>>> Stashed changes
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< Updated upstream
     <option name="x" value="101" />
     <option name="y" value="1" />
     <option name="width" value="1821" />
     <option name="height" value="1047" />
+=======
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="968" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,7 +234,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,11 +243,17 @@
             </path>
             <path>
               <item name="myProject" type="b2602c69:ProjectViewProjectNode" />
+<<<<<<< Updated upstream
               <item name="tools" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+>>>>>>> Stashed changes
             </path>
             <path>
               <item name="myProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
+<<<<<<< Updated upstream
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,16 +285,20 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> Stashed changes
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560755726597" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -278,10 +307,14 @@
     <property name="project.structure.proportion" value="0.1515625" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561882936337" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+>>>>>>> Stashed changes
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\idea\MyProject\tools\src\main\java\com\wiserv\util" />
+      <recent name="E:\代码\MyProject\build" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,50 +334,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38ee20be-ef39-409a-aa60-55648ba573c0" name="Default Changelist" comment="" />
-      <created>1547616639024</created>
+      <changelist id="5f8725cd-afa0-47ad-870b-e7a72646b754" name="Default Changelist" comment="" />
+      <created>1561881782879</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547616639024</updated>
-      <workItem from="1547616640379" duration="53000" />
-      <workItem from="1548145060544" duration="761000" />
-      <workItem from="1548313664349" duration="3708000" />
-      <workItem from="1548386568093" duration="5741000" />
-      <workItem from="1552009582602" duration="4275000" />
-      <workItem from="1552040989653" duration="446000" />
-      <workItem from="1554344905161" duration="744000" />
-      <workItem from="1555391265046" duration="1204000" />
-      <workItem from="1555401000118" duration="8712000" />
-      <workItem from="1555466352269" duration="3747000" />
-      <workItem from="1555553314249" duration="6076000" />
-      <workItem from="1555640348650" duration="9828000" />
-      <workItem from="1555899053204" duration="598000" />
-      <workItem from="1556070981746" duration="598000" />
-      <workItem from="1557466035574" duration="1877000" />
-      <workItem from="1557486570587" duration="316000" />
-      <workItem from="1558004916941" duration="3865000" />
-      <workItem from="1558057392178" duration="591000" />
-      <workItem from="1560750425217" duration="1764000" />
-      <workItem from="1560752877221" duration="910000" />
+      <updated>1561881782879</updated>
+      <workItem from="1561881787208" duration="947000" />
     </task>
-    <task id="LOCAL-00001" summary="增加忽略文件">
-      <created>1560753108665</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1560753108665</updated>
-    </task>
-    <task id="LOCAL-00002" summary="删除不用的代码">
-      <created>1560753589462</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1560753589462</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="56759000" />
   </component>
   <component name="ToolWindowManager">
@@ -358,90 +358,48 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+=======
+    <option name="totallyTimeSpent" value="947000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="20" width="1400" height="774" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3782267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28058362" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.32935917" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3297143" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="CDI" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.3297143" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="增加忽略文件" />
-    <MESSAGE value="删除不用的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除不用的代码" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../tools/src/test/java/com/wisev/util/Test.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../tools/src/test/java/com/wisev/util/Test.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>info1[1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>tableSizeFor(var1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>var1 &lt; 0 ? 1 : (var1 &gt;= 1073741824 ? 1073741824 : var1 + 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>this.table</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.highestOneBit(var0 - 1 &lt;&lt; 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
     <entry file="jar://D:/Java/jre/lib/rt.jar!/java/lang/Byte.class" />
     <entry file="file://$PROJECT_DIR$/../tools/src/test/java/com/wisev/util/Test.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -559,16 +517,16 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/excel/ExcelExportUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="28" selection-start-line="23" selection-end-line="28" />
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/../tools/src/main/java/com/wiserv/util/excel/ExcelHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -722,5 +680,7 @@
         </settings>
       </state>
     </states>
+=======
+>>>>>>> Stashed changes
   </component>
 </project>

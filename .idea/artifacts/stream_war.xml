@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="stream:war">
-    <output-path>$PROJECT_DIR$/stream/target</output-path>
-    <root id="archive" name="stream-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="stream:war exploded" />
-    </root>
-  </artifact>
-</component>
