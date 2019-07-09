@@ -1,5 +1,7 @@
 package com.wiserv.util.tree;
 
+import com.wiserv.util.tree.entity.TreeNode;
+
 import java.util.LinkedList;
 
 public class TraverseTree {

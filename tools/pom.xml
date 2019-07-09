@@ -4,12 +4,12 @@
 
 
   <parent>
-	<groupId>com.gubin</groupId>
+	<groupId>com.wiserv</groupId>
 	<artifactId>myProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
   </parent>
 
-  <groupId>com.gubin</groupId>
+  <groupId>com.wiserv</groupId>
   <artifactId>tools</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
