@@ -5,7 +5,7 @@
 
   <parent>
 	<groupId>com.wiserv</groupId>
-	<artifactId>myProject</artifactId>
+	<artifactId>build</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
   </parent>
 
