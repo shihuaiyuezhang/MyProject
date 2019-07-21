@@ -7,6 +7,7 @@
 	<groupId>com.wiserv</groupId>
 	<artifactId>build</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<relativePath>../build/pom.xml</relativePath>
   </parent>
 
   <groupId>com.wiserv</groupId>
