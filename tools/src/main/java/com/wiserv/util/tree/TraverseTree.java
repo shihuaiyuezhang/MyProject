@@ -4,6 +4,9 @@ import com.wiserv.util.tree.entity.TreeNode;
 
 import java.util.LinkedList;
 
+/***
+ *遍历二叉树
+ */
 public class TraverseTree {
 
 
