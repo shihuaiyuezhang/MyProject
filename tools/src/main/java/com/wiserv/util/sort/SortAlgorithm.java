@@ -89,26 +89,32 @@ public class SortAlgorithm {
 	public static void heapSort(int[] a) {
 		//将序列建立成堆
 		for (int i = (a.length -1) / 2 ; i >= 0; i--)  {
-			HeapAdjust(a,i,a.length);
+			heapAdjust(a,i,a.length);
 		}
-
+		//交换栈顶元素，对剩下元素建立大顶堆
 		for (int i = a.length - 1; i > 0;i--) {			//交换堆顶元素重新建堆
 			int temp = a[i]; a[i] = a[0]; a[0] = temp;
-			HeapAdjust(a, 0, i);
+			heapAdjust(a, 0, i);
 		}
 	}
-	
-	private static void HeapAdjust(int a[],int s,int length) {  
+
+	/**
+	 *
+	 * @param a
+	 * @param s
+	 * @param length
+	 */
+	private static void heapAdjust(int a[],int s,int length) {
 	    int tmp  = a[s];  
-	    int child = 2*s+1;   
+	    int child = 2 * s + 1;
 	    while (child < length) {  
-	        if(child+1 < length && a[child] < a[child+1]) {   
-	            ++child ;  
+	        if(child + 1 < length && a[child] < a[child + 1]) {
+	            ++ child ;
 	        }  
 	        if(a[s] < a[child]) {  
 	            a[s] = a[child]; 
 	            s = child;         
-	            child = 2*s+1;  
+	            child = 2 * s + 1;
 	        }  else {            
 	             break;  
 	        }  
