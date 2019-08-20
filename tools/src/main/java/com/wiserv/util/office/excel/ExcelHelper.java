@@ -1,4 +1,4 @@
-package com.wiserv.util.excel;
+package com.wiserv.util.office.excel;
 
 import com.wiserv.util.util.IOUtil;
 import org.apache.poi.ss.usermodel.*;

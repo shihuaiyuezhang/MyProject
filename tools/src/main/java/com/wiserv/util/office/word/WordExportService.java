@@ -1,10 +1,9 @@
-package com.wiserv.util.word;
+package com.wiserv.util.office.word;
 
 import com.wiserv.util.util.IOUtil;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import java.io.*;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;

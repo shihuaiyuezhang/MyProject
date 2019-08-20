@@ -1,20 +1,20 @@
 package com.wisev.util;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
+import java.lang.reflect.Field;
+import java.lang.reflect.Modifier;
+
 public class InputStreamTest {
 
+    private static final Integer TEST = 1;
 
     public static void main(String[] args) throws Exception {
+        Field field = InputStreamTest.class.getDeclaredField("TEST");
+        field.setAccessible(true);
+        Field modifiersField = Field.class.getDeclaredField("modifiers");
+        modifiersField.setAccessible(true);
+        modifiersField.setInt(field, field.getModifiers() & ~Modifier.FINAL);
+        field.set(null,2);
+        System.out.println(InputStreamTest.TEST);
 
-        BufferedReader fis = new BufferedReader(new FileReader(new File("C:\\Users\\DELL\\Desktop\\读取文档.txt")));
-
-
-        String n;
-        while((n = fis.readLine()) != null) {
-//            fis.read(buffer);
-            System.out.println(n);
-        }
     }
 }

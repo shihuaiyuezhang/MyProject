@@ -1,4 +1,4 @@
-package com.wiserv.util.excel;
+package com.wiserv.util.office.excel;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
